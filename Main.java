@@ -16,8 +16,8 @@ public class Main {
 
         System.out.println(boy2.getName() + " " + boy2.getAge());
 
-
-
-
     }
 }
+
+
+// did a re-do to practice for my an interview
